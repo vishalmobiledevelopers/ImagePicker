@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">imagepicker</string>
+    <string name="take_photo">Take photo</string>
+    <string name="choose_from_library">Choose from library</string>
+
+    <string name="cancel">Cancel</string>
+
+</resources>
